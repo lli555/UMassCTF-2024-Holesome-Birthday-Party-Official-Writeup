@@ -15,7 +15,7 @@ When we first open up the website, we get the message saying that Spongebob want
 
 **Stage 2**
 
-From the message on the web page, we can infer that it wants a `Date` header. Make sure the header is in the correct format ``"<day-name>, <day> <month> <year> <hour>:<minute>:<second> GMT"`` and change the day month year to `Jul 14 2024`. The day and time does not matter here.
+From the message on the web page, we can infer that it wants a `Date` header. Make sure the header is in the correct format ``"<day-name>, <day> <month> <year> <hour>:<minute>:<second> GMT"`` and change the day month year to `14 Jul 2024`. The day and time does not matter here.
 
 ![stage_2](CTF_stage2.png)
 
