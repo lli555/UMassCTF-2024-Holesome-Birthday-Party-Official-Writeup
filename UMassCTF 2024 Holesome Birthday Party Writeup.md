@@ -2,6 +2,8 @@
 
 **Challenge Description:** You just got invited to Spongebob's birthday! But he's decided to test your friendship with a series of challenges before granting you with the ticket of entrance. Can you prove that you're truly his friend and earn your entrance to this holesome birthday party?
 
+![intro_page](Intro_page.png)
+
 **Approach**
 
 In order to solve this challenge, you can use either `curl` to add in the headers or the recommended tool is `Burp Suite`. This challenge consists of 5 stages.
