@@ -1,3 +1,4 @@
+#UMassCTF 2024 Holesome Birthday Party Writeup
 
 **Challenge Description:** You just got invited to Spongebob's birthday! But he's decided to test your friendship with a series of challenges before granting you with the ticket of entrance. Can you prove that you're truly his friend and earn your entrance to this holesome birthday party?
 
@@ -10,7 +11,7 @@ In order to solve this challenge, you can use either `curl` to add in the header
 When we first open up the website, we get the message saying that Spongebob wants us to prove that our browser is from "Bikini Bottom". We can intercept the request and send it to the repeater on Burp Suite. Change the user-agent to "Bikini Bottom" returns us the next stage.
 
 
-![[CTF_stage1.png]]
+![stage_1](CTF_stage1.png)
 
 **Stage 2**
 
